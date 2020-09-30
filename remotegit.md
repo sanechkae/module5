@@ -4,8 +4,11 @@
 * [*git remote add*](./remoteadd.md)
 * [*git fetch*](./fetch.md)
 * [*git merge*](./merge.md)
-* [*git push*](./push.md)
 * [*git pull*](./pull.md)
+* [*git push*](./push.md)
+
   
 ---
+
+
 [Back](./readme.md)
