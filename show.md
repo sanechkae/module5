@@ -5,3 +5,4 @@
 git show[хэш]
 ```
 ---
+[Back](./statusgit.md)

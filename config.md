@@ -1,3 +1,4 @@
+
 ## **git config**
 ---
 Позваляет ***настроить параметры*** на вашем компьютере для Git.
@@ -7,3 +8,4 @@ git config --global user.email адрес@gmail.com
 
 
 ---
+[Back](./comandsgit.md)

@@ -1,3 +1,4 @@
+
 ## **git pull**
 ---
 Объединяет команды ***git fetch*** и ***git merge***.
@@ -7,3 +8,4 @@ git pull
 ```
 
 ---
+[Back](./remotegit.md)
