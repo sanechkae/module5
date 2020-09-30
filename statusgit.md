@@ -3,7 +3,12 @@
 
 
    *  [*git status*](./status.md)
-   *  [*git log*](./log.md)
    *  [*git show*](./show.md)
+   *  [*git log*](./log.md)
+   
+
+
 ---
+
+
 [Back](./readme.md)
